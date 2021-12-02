@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="510560c7-0bec-4336-b837-3d40d952c299" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" afterDir="false" />
-    </list>
+    <list default="true" id="510560c7-0bec-4336-b837-3d40d952c299" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
