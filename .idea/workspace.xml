@@ -59,7 +59,7 @@
       <recent name="C:\Users\Anna\IdeaProjects\api_ci\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts">
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV1">
     <configuration name="MobileBankApiTestV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -125,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MobileBankApiTestV1" />
         <item itemvalue="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts" />
         <item itemvalue="Gradle.MobileBankApiTestV2" />
-        <item itemvalue="Gradle.MobileBankApiTestV1" />
       </list>
     </recent_temporary>
   </component>
