@@ -5,7 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="510560c7-0bec-4336-b837-3d40d952c299" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/netology/rest/MobileBankApiTestV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/netology/rest/MobileBankApiTestV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/netology/rest/MobileBankApiTestV3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/netology/rest/MobileBankApiTestV4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/netology/rest/MobileBankApiTestV5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/netology/rest/MobileBankApiTestV6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.netology.rest.MobileBankApiTestV1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.netology.rest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/test/accounts.schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.netology.rest.MobileBankApiTestV1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +49,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +88,78 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anna\IdeaProjects\api_ci\artifacts" />
     </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV2">
+    <configuration name="MobileBankApiTestV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.rest.MobileBankApiTestV1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MobileBankApiTestV1.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.rest.MobileBankApiTestV1.shouldReturnDemoAccounts&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MobileBankApiTestV2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.rest.MobileBankApiTestV2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MobileBankApiTestV2" />
+        <item itemvalue="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts" />
+        <item itemvalue="Gradle.MobileBankApiTestV1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
