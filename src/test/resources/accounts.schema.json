@@ -25,10 +25,9 @@
       },
       "balance": {
         "type": "integer"
-              },
+      },
       "currency": {
-        "type": "string",
-        "pattern": "^USD$,^RUB$"
+        "type": "string"
       }
     }
   }
